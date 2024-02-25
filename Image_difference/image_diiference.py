@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 # Load two images
-image1 = cv2.imread('1.jpg')
-image2 = cv2.imread('2.jpg')
+image1 = cv2.imread('Image_Path_1.jpg')
+image2 = cv2.imread('Image_Path_2.jpg')
 
 # Resize images to a common size (adjust the dimensions as needed)
 image1 = cv2.resize(image1, (640, 480))
