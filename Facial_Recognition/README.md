@@ -4,7 +4,7 @@ This project implements a facial recognition system using OpenCV for face detect
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - OpenCV (`cv2`)
 - `PIL` (Python Imaging Library)
 - `numpy`
