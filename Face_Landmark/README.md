@@ -4,7 +4,7 @@ This project demonstrates face landmark detection using the MediaPipe library. T
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - OpenCV (`cv2`)
 - MediaPipe (`mediapipe`)
 
