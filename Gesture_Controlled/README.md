@@ -12,3 +12,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install opencv-python mediapipe
+```
+## Project Structure
+
+- `hand_tracker.py`: Python script for real-time hand tracking and gesture recognition.
