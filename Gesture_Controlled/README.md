@@ -4,7 +4,7 @@ This Python script implements a gesture-controlled system using the MediaPipe li
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - OpenCV (`cv2`)
 - MediaPipe (`mediapipe`)
 
