@@ -4,7 +4,7 @@ This Python script compares two images and highlights the differences between th
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - OpenCV (`cv2`)
 
 You can install OpenCV using pip:
