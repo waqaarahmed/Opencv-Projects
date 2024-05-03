@@ -11,3 +11,9 @@ You can install OpenCV using pip:
 
 ```bash
 pip install opencv-python
+```
+
+## Project Structure
+- `image_difference.py`: Python script for comparing two images and highlighting the differences.
+
+## 
