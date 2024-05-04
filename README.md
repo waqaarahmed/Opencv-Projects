@@ -49,3 +49,9 @@ You can install the required dependencies using pip:
 
 ```bash
 pip install opencv-python mediapipe
+```
+
+## Note
+
+- Ensure you have a compatible camera device connected and properly configured for projects involving real-time video processing.
+- Adjust parameters and configurations as needed based on your specific use case and environment.
