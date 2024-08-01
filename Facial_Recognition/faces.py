@@ -7,6 +7,7 @@ cascade = cv2.CascadeClassifier('cascades/data/haarcascade_frontalface_default.x
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 recognizer.read('faces.yml')
 encodings = {}
+
 with open("encodings.pkl", 'rb') as f:
    od_encodings = pickle.load(f)
    encodings = {v:k for k,v in od_encodings.items()}
